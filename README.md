@@ -2,8 +2,9 @@
 
 # This is Small Inventory Management System using JSON file to store Records,and Sale Transcations.
 
-# It includes New Adding Product to the Inventory,Updating status accordingly in respective JSON file,Purchaseing Product From Inventory as per user requirements,
-# updating Inventory after Purchase,aslo Creating Sale Transcations as well as updating in respective JSON file.
+# Description:
+ It includes New Adding Product to the Inventory,Updating status accordingly in respective JSON file,Purchaseing Product From Inventory as per user requirements,
+ updating Inventory after Purchase,aslo Creating Sale Transcations as well as updating in respective JSON file.
 
 # files used:
  # Adding_new_product .ipynb is used to Adding New Product to Inventory,if product already exist then add the new quantity .
@@ -22,7 +23,7 @@
 
 # Sale Transcation Features: Transcation Id, Product id,Product name, quantity, total Billing amount 
 
-# I am Poonam Jaiswal , currenty working in different field but very passionated about programing/coding. basically I belongs to IT feild
+ I am Poonam Jaiswal , currenty working in different field but very passionated about programing/coding. basically I belongs to IT feild
  as I had purshued Master Of Computer Application Degree.I am also a Homemaker. as well as working as Freelancer.
  
 
